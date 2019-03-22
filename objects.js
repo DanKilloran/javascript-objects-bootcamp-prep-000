@@ -7,3 +7,4 @@ var updatePlaylist = function(playlist, Sublime, Santeria) {
   playlist[Sublime] = Santeria
   return playlist
 }
+
