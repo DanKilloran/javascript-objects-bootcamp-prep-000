@@ -8,7 +8,7 @@ var updatePlaylist = function(playlist, Sublime, Santeria) {
   return playlist
 }
 
-var removeFromPlaylist = function(playlist, Beyonce) {
-  delete playlist['War'];
+var removeFromPlaylist = function(playlist, War) {
+  delete playlist[War];
   return playlist
 }
