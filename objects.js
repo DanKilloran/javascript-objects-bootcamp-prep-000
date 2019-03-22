@@ -3,4 +3,6 @@ var playlist = {
   War: 'Low Rider'
 }
 
-var 
+var updatePlaylist = function(playlist, Sublime, Santeria) {
+  return 
+}
