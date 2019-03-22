@@ -1,4 +1,4 @@
 var playlist = {
-  tPain: 'Low',
-  The: 'Ugh'
+  Beyonce: 'Formation',
+  War: 'Low Rider'
 }
