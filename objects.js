@@ -4,5 +4,6 @@ var playlist = {
 }
 
 var updatePlaylist = function(playlist, Sublime, Santeria) {
-  return Object.assign( obj, { [key]: value })
+  playlist[Sublime] = Santeria
+  return playlist
 }
